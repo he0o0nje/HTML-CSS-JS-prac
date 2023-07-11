@@ -1,2 +1,2 @@
-HTML, CSS, Bootstrap Javascript, jQuery, Ajax
+HTML, CSS, Bootstrap, Javascript, jQuery, Ajax
 practice
